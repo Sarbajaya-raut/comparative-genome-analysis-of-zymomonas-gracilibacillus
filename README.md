@@ -54,4 +54,3 @@ To annotate and compare the genomes of four strains each of *Zymomonas mobilis* 
 - The contrast between the conserved core resistome in *Zymomonas* and the variable accessory resistome in *Gracilibacillus* reflects different evolutionary strategies: intrinsic adaptation vs. niche-specific acquisition.
 - These findings highlight the importance of monitoring environmental microbiomes under the One Health framework to predict and mitigate the spread of antibiotic resistance.
 
-## Repository Structure
